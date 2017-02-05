@@ -1,0 +1,16 @@
+program prueba3 ;
+var varInt , varInt2 : int ; varFloat , varFloat2 : float;
+{
+varInt2 = 5 + 8 ;
+if ( 5 > 4 )
+{
+ varFloat = 5.4 - 8.2 ;
+}
+else
+{
+ varFloat = varInt + varInt2 
+} ;
+
+    print( "ALEX" , 6 + 7 ) ;
+
+}
