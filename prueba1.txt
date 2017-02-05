@@ -1,0 +1,19 @@
+program test1;
+var anio:int;
+	hello, its, me:float; 
+{
+	anio = 2016;
+	if(anio > 2015)
+		{
+			print("anio");
+		};
+
+	if(anio < 2016)
+	{
+		hello = 3.1416 * 10;
+	}
+	else
+	{
+		print (hello);
+	};
+}
