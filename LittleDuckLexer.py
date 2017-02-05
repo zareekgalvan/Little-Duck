@@ -15,7 +15,8 @@ tokens = [
     'EQUALS','GREATER','LESS','NOTEQUAL',
     'LEFTPAREN','RIGHTPAREN', 'LEFTBRACKET',
     'RIGHTBRACKET', 'SEMICOLON','COMMA', 'COLON',
-    'CTEI', 'CTEF', 'ID', 'CTESTRING'] + list(keywords.values())
+    'CTEI', 'CTEF', 'ID', 'CTESTRING'] 
+    + list(keywords.values())
 
 # Tokens
 
